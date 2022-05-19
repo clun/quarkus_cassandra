@@ -1,0 +1,2 @@
+# quarkus_cassandra
+Sample
